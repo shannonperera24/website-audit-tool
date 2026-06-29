@@ -193,5 +193,5 @@ These logs are the primary artifact for evaluating AI design decisions. They sho
 | Frontend | React + Vite |
 | Backend | Django 6 + Django REST Framework |
 | Database | PostgreSQL |
-| AI | Google Gemini 1.5 Flash |
+| AI | Google Gemini 2.5 Flash |
 | Scraping | requests + BeautifulSoup4 |
